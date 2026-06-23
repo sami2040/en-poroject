@@ -5,5 +5,7 @@ feat: add user configuration file
 feat: implement data storage layer
 fix: resolve configuration loading issue
 feat: add export to csv functionality
+refactor: improve file organization
+docs: update setup instructions
 
  
